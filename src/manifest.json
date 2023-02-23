@@ -1,0 +1,7 @@
+{
+    "name": "Measure time-to-recall",
+    "package": "time_to_recall",
+    "version": "1.0.0",
+    "author": "Sameer Ismail",
+    "homepage": "https://github.com/sameersismail/anki-time-to-recall"
+}
